@@ -6,7 +6,19 @@
 [课程官网](http://www.youbaobao.xyz/mpvue-docs/guide/)
 
 
-一个框架，一套代码搞定微信、支付宝、百度、头条四大主流平台的小程序
+怎么跑起来？
+	
+mpvue-imooc-ebook-chapter-master  
+文件夹 
+sudo npm install  
+把 src/utils/const.js  
+中的 APP_ID 和  APP_SECRET 换成自己的就好  
+最后，sudo npm run dev  
+
+
+
+	
+	一个框架，一套代码搞定微信、支付宝、百度、头条四大主流平台的小程序
 
 	第1章 课程快速预览（必看！！！）  
 	在这一章节中，老师讲带领你快速预览课程整体。其中，涉及到为什么要做这么一门实战课程、制作一个小程序的完整流程是怎么样的，以及如何做项目的技术选型。
