@@ -15,7 +15,8 @@
 		
 	
 5. globalData 和 storage 有什么区别？
-6. 
+6.  12-5， mounted 和 onShow 先后执行顺序？
+7. 
 	
 	
 	
