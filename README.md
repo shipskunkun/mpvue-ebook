@@ -1,6 +1,10 @@
 # mpvue-ebook
 
 
+视频时间：2019-08-01
+
+
+
 [最新 mpvue2.0 框架－实战［小慕读书］多平台小程序](https://coding.imooc.com/class/chapter/376.html#Anchor)
 
 [课程官网](http://www.youbaobao.xyz/mpvue-docs/guide/)
@@ -16,7 +20,8 @@ sudo npm install
 把 src/utils/const.js  
 中的 APP_ID 和  APP_SECRET 换成自己的就好  
 最后，sudo npm run dev  
-
+在dist 目录下生成 wx 文件夹	
+使用小程序开发工具打开这个文件夹
 
 
 	
